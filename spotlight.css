@@ -9,6 +9,18 @@ body {
     font-size: 13px;
 }
 
+.font-size-medium {
+    font-size: 16px;
+}
+
+.line-height-medium {
+    line-height: 20px;
+}
+
+.font-weight-medium {
+    font-weight: 400;
+}
+
 .shade-087 {
     color: #222;
 }
@@ -72,8 +84,12 @@ body {
     justify-content: center;
 }
 
-.flexbox-streach {
+.flexbox-align-stretch {
     align-items: stretch;
+}
+
+.flexbox-align-center {
+    align-items: center;
 }
 
 .flexbox-grow-1 {
@@ -92,10 +108,22 @@ body {
     border-width: 1px;
 }
 
+.no-border {
+    border: 0;
+}
+
 .border-solid {
     border-style: solid;
 }
 
 .border-shade-100 {
     border-color: #fff;
+}
+
+.overflow-ellipsis {
+    text-overflow: ellipsis;
+}
+
+.no-outline {
+    outline: none;
 }
