@@ -104,6 +104,10 @@ body {
     border-radius: 4px;
 }
 
+.radius-large {
+    border-radius: 8px;
+}
+
 .border-width-normal {
     border-width: 1px;
 }
