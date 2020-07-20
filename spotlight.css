@@ -9,9 +9,29 @@ body {
     font-size: 13px;
 }
 
+.shade-087 {
+    color: #222;
+}
+
 .padding-horizontal-larger {
     padding-left: 24px;
     padding-right: 24px;
+}
+
+.padding-left-small {
+    padding-left: 12px;
+}
+
+.padding-left-smaller {
+    padding-left: 8px;
+}
+
+.padding-right-medium {
+    padding-right: 16px;
+}
+
+.padding-right-tiny {
+    padding-left: 4px;
 }
 
 .position-absolute {
@@ -37,6 +57,10 @@ body {
 
 .z-12 {
     z-index: 12;;
+}
+
+.block {
+    display: block;
 }
 
 .flexbox {
