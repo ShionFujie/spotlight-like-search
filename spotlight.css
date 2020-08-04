@@ -58,6 +58,10 @@ body {
     padding-left: 4px;
 }
 
+.padding-top-020 {
+    padding-top: 20vh;
+}
+
 .position-absolute {
     position: absolute;
 }
