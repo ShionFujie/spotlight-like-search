@@ -25,6 +25,18 @@ body {
     color: #222;
 }
 
+.background-shade-003 {
+    background: #f7f7f7;
+}
+
+.background-none {
+    background: none;
+}
+
+.border-color-shade-013 {
+    border-color: #dddddd;
+}
+
 .padding-horizontal-larger {
     padding-left: 24px;
     padding-right: 24px;
@@ -43,7 +55,11 @@ body {
 }
 
 .padding-right-tiny {
-    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.padding-top-020 {
+    padding-top: 20vh;
 }
 
 .position-absolute {
@@ -120,7 +136,7 @@ body {
     border-style: solid;
 }
 
-.border-shade-100 {
+.border-color-shade-100 {
     border-color: #fff;
 }
 
