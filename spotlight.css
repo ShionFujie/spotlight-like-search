@@ -1,5 +1,6 @@
 * {
     padding: 0;
+    margin: 0;
 }
 
 body {
@@ -26,6 +27,10 @@ body {
 }
 
 .background-shade-003 {
+    background: #f7f7f7;
+}
+
+.background-hover-shade-003 :hover {
     background: #f7f7f7;
 }
 
@@ -58,8 +63,16 @@ body {
     padding-right: 4px;
 }
 
+.padding-top-smaller {
+    padding-top: 8px;
+}
+
 .padding-top-020 {
     padding-top: 20vh;
+}
+
+.padding-bottom-smaller {
+    padding-bottom: 8px
 }
 
 .position-absolute {
@@ -158,4 +171,16 @@ body {
 
 .no-outline {
     outline: none;
+}
+
+.list-style-type-none {
+    list-style-type: none;
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
+.pointer {
+    cursor: pointer;
 }
