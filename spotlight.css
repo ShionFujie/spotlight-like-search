@@ -95,6 +95,18 @@ body {
     display: flex;
 }
 
+.flexbox-direction-row {
+    flex-direction: row;
+}
+
+.flexbox-direction-column {
+    flex-direction: column;
+}
+
+.flexbox-align-start {
+    align-items: flex-start;
+}
+
 .flexbox-centered {
     align-items: center;
     justify-content: center;
